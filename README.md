@@ -11,4 +11,4 @@ Program with HTML, CSS and a little bit of JavaScript.
 ## 🛠️ Details
 Unfortunately, all is in French.
 
-The script has been created the May 24 2023.
+The project has been created the May 24 2023.

@@ -4,11 +4,14 @@ This is a website on the Mont Saint Michel. It's very simple and there no really
 Unfortunately, I was a beginner so the web site is not responsive and i was working on a very large screen, so sorry for those who have a little screen. My future projects will be better, I promise.
 
 There is a little quizz at the end so read everything carefully !
+#
 
 ## 💬 Language
 Program with HTML, CSS and a little bit of JavaScript.
+##
 
 ## 🛠️ Details
 Unfortunately, all is in French.
 
 The project has been created the May 24 2023.
+##
